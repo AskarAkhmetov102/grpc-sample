@@ -1,0 +1,10 @@
+#Maven
+target
+.mvn
+
+#Gradle
+build
+.gradle
+
+#Intellij IDEA
+.idea
